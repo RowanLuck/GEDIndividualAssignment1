@@ -1,0 +1,12 @@
+﻿  SimpleClass.cpp
+C:\Users\luckh\Desktop\UOIT Files\Years\Year 3\Semester 1\INFR 3310 - Game Engine Design and Implementation\Assignments\Individual Assignment #1\IndivAssignment1\IndivAssignment1\SimpleClass.h(14,18): warning C4251:  'SimpleClass::textFile': class 'std::basic_fstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'SimpleClass'
+  Wrapper.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\iosfwd(225): message :  see declaration of 'std::basic_fstream<char,std::char_traits<char>>'
+C:\Users\luckh\Desktop\UOIT Files\Years\Year 3\Semester 1\INFR 3310 - Game Engine Design and Implementation\Assignments\Individual Assignment #1\IndivAssignment1\IndivAssignment1\SimpleClass.h(14,18): warning C4251:  'SimpleClass::textFile': class 'std::basic_fstream<char,std::char_traits<char>>' needs to have dll-interface to be used by clients of class 'SimpleClass'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.22.27905\include\iosfwd(225): message :  see declaration of 'std::basic_fstream<char,std::char_traits<char>>'
+     Creating library C:\Users\luckh\Desktop\UOIT Files\Years\Year 3\Semester 1\INFR 3310 - Game Engine Design and Implementation\Assignments\Individual Assignment #1\IndivAssignment1\x64\Release\IndivAssignment1.lib and object C:\Users\luckh\Desktop\UOIT Files\Years\Year 3\Semester 1\INFR 3310 - Game Engine Design and Implementation\Assignments\Individual Assignment #1\IndivAssignment1\x64\Release\IndivAssignment1.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  IndivAssignment1.vcxproj -> C:\Users\luckh\Desktop\UOIT Files\Years\Year 3\Semester 1\INFR 3310 - Game Engine Design and Implementation\Assignments\Individual Assignment #1\IndivAssignment1\x64\Release\IndivAssignment1.dll
